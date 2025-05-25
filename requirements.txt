@@ -1,0 +1,9 @@
+easyocr==1.7.1
+matplotlib==3.8.4
+numpy==2.2.6
+opencv_python==4.9.0.80
+opencv_python_headless==4.8.0.76
+Pillow==11.2.1
+psutil==5.9.8
+torch==2.3.0
+ultralytics==8.2.18
