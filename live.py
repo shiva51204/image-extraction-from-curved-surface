@@ -6,7 +6,7 @@ from ultralytics import YOLO
 
 
 # Load the YOLOv8 model
-model = YOLO('new_8n_best.pt')  # replace with your model path if different
+model = YOLO('models/new_8n_best.pt')  # replace with your model path if different
 
 # Open the video stream
 cap = cv2.VideoCapture(0)

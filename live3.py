@@ -9,7 +9,7 @@ from ultralytics import YOLO
 from final_ifp2 import date_finder
 
 # Load the YOLOv8 model
-model = YOLO('best_yolov8n_new.pt')
+model = YOLO('models/best_yolov8n_new.pt')
 
 # Open the video stream
 cap = cv2.VideoCapture(0)
