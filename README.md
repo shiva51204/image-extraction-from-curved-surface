@@ -5,6 +5,6 @@
 <br>
 
 - Used two models (YOLOV8 and Easyocr)
-- finalinf2.py has all functions to use
+- final_ifp2.py has all functions to use
 - test2.py has tkinter version of the project
 - choose any model in *Models* to use (best_yolo.pt is prefferable)
