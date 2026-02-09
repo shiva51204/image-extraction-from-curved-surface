@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Text extraction from Commercial Products</h1>
+  <h1>Text extraction from Commercial Products(for curved surfaces)</h1>
 </div>
 <br>
 
